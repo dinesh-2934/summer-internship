@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        
+        h1{
+            color: rgb(53, 125, 71);
+        }
+        .title{
+            color: rgb(70, 32, 182);
+        }
+        #para{
+           align-self: auto;
+        }
+        tr{
+            text-align: center;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>STUDENT REPORT CARD</h1>
+    <table border="3px solid black">
+        <th class="title">Subject</th>
+        <th class="title">Mark</th>
+        <th class="title">Grade</th>
+        <th id="para">
+            <tr>
+                <td>Language</td>
+                <td>69</td>
+            </tr>
+       
+            <tr>
+                <td>English</td>
+                <td>61</td>
+            </tr>
+       
+            <tr>
+                <td>Economics</td>
+                <td>61</td>
+            </tr>
+       
+            <tr>
+                <td>Accountancy</td>
+                <td>66</td>
+            </tr>
+
+            <tr>
+                <td>Commerce</td>
+                <td>65</td>
+            </tr>
+       
+            <tr>
+                <td>Comouter Application</td>
+                <td>63</td>
+            </tr>
+        </th>
+    </table>
+</body>
+</html>

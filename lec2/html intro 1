@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <STYLE>
+        body{
+            color: rgb(30, 30, 32);
+            background-color: rgb(5, 3, 3);
+            
+        }
+        B{
+            color: rgb(48, 176, 59);
+        }
+        P{
+            text-align: center;
+            color: rgb(157, 94, 67);
+        }
+        h1{
+            text-align: center;
+        }
+        ul{
+            text-align: center;
+            
+        }
+        li{
+            color: rgb(174, 40, 121);
+            size: bold;
+        }
+    </STYLE>
+</head>
+<body>
+    <h1>SELF INTRO</h1> <HR></HR>
+    <br><br><br>
+    <p>
+        HI MYSELF <B>J.MARIYA DINESH</B>  <BR></BR>
+        CURRENTLY  PERSUING MY MCA IN HCAS. <BR></BR>HAVE  COMPLETED MY UG IN CRESCENT UNIVERSITY. <BR></BR> I AM  FROM Madipakkam,chennai.</BR><br>
+        <h3 style="text-align: center;">Skills : </h3>
+        <ul>
+            <li  style="list-style-type: none;">Python</li>
+            <li style="list-style-type: none;">c++</li>
+            <li style="list-style-type: none;">HTML</li>
+        </ul>
+    </p>
+
+</body>
+</html>
